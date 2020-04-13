@@ -1,7 +1,7 @@
 # Setup
 title: Poole
 tagline: The Jekyll Butler
-url: https://getpoole.com
+url: ericzawo.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -34,7 +34,7 @@ sass:
 # Specify the author for blog posts
 author:
   name: Mark Otto
-  url: https://twitter.com/mdo
+  url: ericzawo.github.io
   email: markdotto@gmail.com
 
 # Custom vars
